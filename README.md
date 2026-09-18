@@ -6,7 +6,7 @@ An automated UI testing suite for the [SauceDemo](https://www.saucedemo.com/) e-
 - **TC_LOGIN_01:** Validates user login functionality and URL redirection to the inventory page.
 - **TC_CART_01:** Validates adding an item to the shopping cart and verifies the cart badge updates correctly.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Python 3.11
 - **Automation Tool:** Selenium WebDriver 4.x
 - **Testing Framework:** Pytest
